@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf $PREFIX/share/weeman
+rm -rf $PREFIX/bin/weeman
+rm -rf $PREFIX/bin/uninstallweeman
