@@ -3,3 +3,6 @@
 rm -rf $PREFIX/share/weeman
 rm -rf $PREFIX/bin/weeman
 rm -rf $PREFIX/bin/uninstallweeman
+clear
+echo 'Weeman Successfully Uninstalled'
+echo 'Please Subscribe My Channel HackZonE'
